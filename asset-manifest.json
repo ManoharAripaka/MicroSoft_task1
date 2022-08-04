@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MicroSoft_task1/static/css/main.9552b0de.css",
-    "main.js": "/MicroSoft_task1/static/js/main.0321a22e.js",
+    "main.css": "/MicroSoft_task1/static/css/main.eef44f3b.css",
+    "main.js": "/MicroSoft_task1/static/js/main.892232e2.js",
     "index.html": "/MicroSoft_task1/index.html",
-    "main.9552b0de.css.map": "/MicroSoft_task1/static/css/main.9552b0de.css.map",
-    "main.0321a22e.js.map": "/MicroSoft_task1/static/js/main.0321a22e.js.map"
+    "main.eef44f3b.css.map": "/MicroSoft_task1/static/css/main.eef44f3b.css.map",
+    "main.892232e2.js.map": "/MicroSoft_task1/static/js/main.892232e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.9552b0de.css",
-    "static/js/main.0321a22e.js"
+    "static/css/main.eef44f3b.css",
+    "static/js/main.892232e2.js"
   ]
 }
